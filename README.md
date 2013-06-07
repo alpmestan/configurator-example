@@ -3,7 +3,7 @@ Configurator example
 
 Here is an example session:
 
-``` haskell
+```
 $ ./configurator-example 
 -> Config watcher thread id: ThreadId 2
 -> Type 'show' or 'quit', and feel free to modify ex.cfg while this runs:
